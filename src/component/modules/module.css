@@ -1,0 +1,231 @@
+.azdiv1
+{
+    width: 86%;
+    margin-left: 5%;
+    height: 50px;
+    margin-top: 30px;
+}
+.azdiv11
+{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 10px;
+}
+.azdiv111
+{
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-size: 18px;
+    float: left;
+    margin-left: 8px;
+    color: #0ca38a;
+    border-radius: 5px;
+    margin-top: 10PX;
+    background-color:rgb(255, 255, 255) ;
+    border: 1px solid #0ca38a;
+}
+.azdiv2
+{
+    width: 80%;
+    margin-left: 10%;
+    height: 20px;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 800px)
+{
+    #form11
+{
+    min-width: 200px;
+    max-width: 300px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+#form111
+{
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 5%;
+}
+
+.medlett
+{
+    width: 150px;
+}
+.azdiv21
+{
+    margin-left:"33%";
+    margin-top:"20px"
+}
+.patdiv21
+    {
+        width: 300px;
+        margin-left:20px;
+        float: left;
+        height: 150px;
+        margin-top: 10px;
+    }
+    .patimg
+    {
+        width: 120px;
+        height: 130px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .patover
+    {
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .pa1div1
+    {
+        width: 200px;
+        height: 200px;
+        margin-left: 20px;
+        margin-top: 20px;
+        overflow: hidden;
+    }
+    .patimg1{
+        width: 100%;
+        height: 100%;
+       }
+
+}
+@media screen and (min-width: 800px)
+{
+    .patdiv1
+    {
+        display: flex;
+        margin-top: 10px;
+    }
+    .pa1div2
+    {
+        width: 200px;
+        height: 200px;
+        margin-left: 20px;
+        margin-top: 20px;
+        overflow: hidden;
+    }
+    .pa1div1
+    {
+        width: 200px;
+        height: 200px;
+        margin-left: 20px;
+        margin-top: 20px;
+        overflow: hidden;
+    }
+    .patimg
+    {
+        width: 120px;
+        height: 130px;
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+    .patimg1{
+     width: 100%;
+     height: 100%;
+    }
+    .patdiv2
+    {
+        width: 90%;
+        margin-left: 5%;
+        margin-top: 20px;
+        overflow: hidden;
+    }
+    .patover
+    {
+        float: left;
+        margin-left: 10px;
+        margin-top: 15px;
+    }
+    .patdiv21
+    {
+        width: 350px;
+        margin-left:20px;
+        border: 1px solid #0ca38a;
+        float: left;
+        height: 150px;
+        margin-top: 10px;
+    }
+    #form11
+{
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 30%;
+}
+#form111
+{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 7%;
+}
+.disdiv
+{
+    margin-left: 10%;
+}
+.h5lett
+{
+    margin-left:"31%";
+    margin-top:"200px";
+}
+.azdiv21
+{
+    margin-left:"33%";
+    margin-top:"20px"
+}
+.medsletter
+{
+    width: 100px;
+}
+.popmed
+{
+    width: 100%;
+    margin-top: 20px;
+    background-color: red;
+}
+.popmed1
+{
+    float: left;
+    padding: 5px;
+    height: 40px;
+    margin-left: 15px;
+    margin-top: 10px;
+    background-color:  #0ca38a;
+    color: white;
+}
+}
+.medname
+{
+    margin-top: 20px;
+}
+.mainmeddiv
+{
+    width: 80%;
+    margin-left: 8%;
+}
+.medde
+{
+    margin-top: 20px;
+    width: 10%;
+}
+.flexdis
+{
+    display: flex;
+}
+.marl
+{
+    margin-left: 5%;
+    width: 40%;
+    margin-top: 20px;
+}
+.meddesc1
+{
+    margin-top: 20px;
+    width: 30%;
+    margin-left: 5%;
+}
+.meddesc12
+{
+    margin-top: 20px;
+}

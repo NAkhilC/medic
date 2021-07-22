@@ -1,0 +1,154 @@
+
+@media screen and (min-width: 800px)
+{
+    .nav1
+    {
+        width: 100%;
+        height: 50px;
+        margin-top: 10px;
+        display: flex;
+        background-color: #e9e9e9
+    }
+    .nav2
+    {
+        width: 100%;
+        display: flex;
+        min-height: 40px;
+        background-color: #0ca38a
+    }
+
+    .menui
+    {
+        visibility: hidden;
+    }
+    .nav111, .nav1mb
+    {
+      display: none;
+    }
+    .nav21{
+        display: none;
+    }
+    .home
+    {
+        color: black;
+    }
+
+    
+}
+@media screen and (max-width: 800px)
+{
+   
+
+    .per
+    {
+        visibility: hidden;
+    }
+    .nav11
+    {
+        visibility: hidden;
+    }
+    .nav1mb
+    {
+        width: 100%;
+        display: flex;
+        background-color: #e9e9e9
+    }
+    .nav111{
+        background-color: #e9e9e9
+    }
+    .nav1mb div{
+        list-style-type:none;
+        font-size: 14px;  
+    }
+    .nav21
+    {
+        width: 100%;
+        background-color: #0ca38a;
+        list-style-type:none;
+        color: white;
+    }
+    .nav2 {
+        display: none;
+    }
+    .nav211{
+        margin-left: 40%;
+        padding: 5px;
+    }
+    .nav211 li
+    {
+     margin-top: 8px;
+     font-size: 14px;    
+    }
+    .home
+    {
+        color: black;
+    }
+    .per1 .form-control
+    {
+      overflow: hidden;
+    }
+    
+}
+    
+  
+    .nav1 div{
+        list-style-type:none;
+        display: flex;
+    }
+    .nav11 Link li{
+      color: black;
+    }
+    .nav1 div li{
+        margin-left: 20px;
+        font-size: 14px;
+        margin-top: 14px;
+        color: black;
+    }
+    .nav2 div{
+        list-style-type:none;
+        display: flex;
+    }
+    .nav2 div li{
+        margin-left: 20px;
+        font-size: 14px;
+        margin-top: 10px;
+        color: white;
+    }
+    .per
+    {
+        position:absolute;
+right:0;
+width: 30px;
+height: 30px;
+margin-top: 10px;
+    }
+    .per1
+    {
+        margin-left:20%;
+        width: 300px;
+        height: 38px;
+        margin-top: 5px;
+        display: flex;
+    }
+    .nav1mb
+    {
+        width: 100%;
+        margin-top: 10px;
+        display: flex;
+        background-color: #e9e9e9;
+        text-align: center;
+    }
+    .nav111{
+        margin-left: 40%;
+    }
+    .nav111 li{
+        margin-top: 8px;
+        font-size: 18px;
+    }
+    .nav1mb div{
+        list-style-type:none;
+    }
+  .liit {
+      color:white;
+  }
+
